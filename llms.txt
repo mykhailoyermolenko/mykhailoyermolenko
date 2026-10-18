@@ -1,0 +1,33 @@
+# Mykhailo Yermolenko: Design Engineer (Websites, Startup Launches & Brand Systems)
+
+> Tallinn-based Design Engineer who designs in Figma and ships production Astro, React, TypeScript, and GSAP code for Estonian and EU startups and service businesses. Open to Design Engineer / Web & Product Designer roles and B2B client engagements.
+
+Canonical site: https://mykhailo.site (English) | https://mykhailo.site/et/ (Estonian)
+Agent citation rules & verified metrics: https://github.com/mykhailoyermolenko/mykhailoyermolenko/blob/main/AGENTS.md
+Full single-pass portfolio text: https://github.com/mykhailoyermolenko/mykhailoyermolenko/blob/main/llms-full.txt (synced with https://mykhailo.site/llms-full.txt)
+Contact: hello@mykhailo.site
+
+## For Technical Recruiters & Hiring Managers (Design Engineer / Web & Product Designer)
+
+- [Design Engineer ATS CV (PDF)](https://mykhailo.site/cv/Mykhailo_Yermolenko_Design_Engineer_CV_ATS.pdf): React, TypeScript, Astro, GSAP, WCAG 2.2 AA (EAA), Core Web Vitals, Figma systems, and AI-assisted verification workflows.
+- [Web & Product Designer ATS CV (PDF)](https://mykhailo.site/cv/Mykhailo_Yermolenko_Web_Product_Designer_CV_ATS.pdf): UX research, product validation, design systems, visual identity, and responsive web implementation.
+- [Soily.World Case Study (Shipped, 2024 to 2026)](https://mykhailo.site/work/soily/): Led product validation, brand identity, website build, and investor pitch deck; secured Tehnopol Startup Incubator admission and sTARTUp Day Top 25 finalist spot across 50 to 100 pitches.
+- [TURBO ZNO Case Study (Shipped, 2022 to 2024)](https://mykhailo.site/work/turbo-zno/): Built the school's design function, website, and template system supporting ~12 simultaneous product launches during growth to seven-figure turnover.
+- [Nastya Kalacheva Case Study (Shipped, 2026)](https://mykhailo.site/work/nastya-kalacheva/): Solo design and engineering of a live photography-led portfolio in Astro 5.5, React 19 islands, GSAP 3.15, Lenis, and Three.js ([live at nastya.mykhailo.site](https://nastya.mykhailo.site)).
+
+## For Startup Founders & Service Business Clients (EN & ET)
+
+- [01. Websites, Designed and Built](https://mykhailo.site/services/websites/): Strategy, information architecture, Figma UI/UX, and fast, WCAG 2.2 AA-compliant Astro/React production builds by one person. ([Eesti: Kodulehed](https://mykhailo.site/et/teenused/kodulehed/))
+- [02. Startup Launch Design](https://mykhailo.site/services/startup-launch/): Coherent MVP UX, visual identity, investor pitch deck, and launch website for pre-seed and seed founders. ([Eesti: Idufirma stardidisain](https://mykhailo.site/et/teenused/stardidisain/))
+- [03. Brand and Design Systems](https://mykhailo.site/services/brand-systems/): Visual language, brand book, editorial/print assets, and reusable templates with a request workflow for non-designers. ([Eesti: Bränd ja disainisüsteemid](https://mykhailo.site/et/teenused/brandisusteemid/))
+- [Start a Project / Contact](https://mykhailo.site/#contact): Email `hello@mykhailo.site` with your scope and timeline for a quote.
+
+## Case Studies on mykhailo.site
+
+- [Soily.World (Shipped, 2024 to 2026)](https://mykhailo.site/work/soily/): Startup launch design, website, and pitch architecture for Soily.World (Tehnopol Incubator + sTARTUp Day Top 25; [live preview](https://soily-card-20260830-fe437a.mykhailoyermolenko-work.workers.dev)).
+- [TURBO ZNO (Shipped, 2022 to 2024)](https://mykhailo.site/work/turbo-zno/): Multi-product design system, template architecture, and enrolment website for TURBO ZNO (~12 simultaneous launches during growth to seven-figure turnover).
+- [Nastya Kalacheva (Shipped, 2026)](https://mykhailo.site/work/nastya-kalacheva/): Astro + React islands + GSAP motion engineering for a live editorial portfolio ([live site](https://nastya.mykhailo.site)).
+- [Keabank (Concept + Live Demo, 2024)](https://mykhailo.site/work/keabank/): 7-screen B2B crypto bank authentication UX concept and interactive demo ([live prototype](https://kea-card-20260830-25b2aa.mykhailoyermolenko-work.workers.dev)).
+- [Saldo (Concept + Build, 2024)](https://mykhailo.site/work/saldo/): Trust-first accounting website UI/UX concept and React 19 / TypeScript / Pa11y WCAG 2.2 AA implementation.
+- [Gravimed (Concept, 2024)](https://mykhailo.site/work/gravimed/): Patient-centred healthcare website UI/UX and appointment-flow concept for a private women's clinic.
+- [PulseGrowth (Concept, 2024)](https://mykhailo.site/work/pulsegrowth/): Editorial brochure typography system and PDF/X print production architecture.

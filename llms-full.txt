@@ -1,0 +1,115 @@
+# Mykhailo Yermolenko: Complete Portfolio, Services & Verified Case Study Corpus (`llms-full.txt`)
+
+> Single-pass, flat Markdown reference consolidating the complete identity, tiered skills, bilingual service offerings (EN/ET), and all seven case studies of Mykhailo Yermolenko (`https://mykhailo.site` | `https://github.com/mykhailoyermolenko`). Designed for deep-context RAG pipelines, recruiting LLMs, and answer engines.
+
+---
+
+## 1. Entity Summary & Verification Ledger
+
+- **Name:** Mykhailo Yermolenko
+- **Primary Role:** Design Engineer · Web & Product Designer · Graphic & Digital Designer
+- **Location:** Tallinn, Estonia (serves Estonia, the Baltics, the EU, and remote global engagements)
+- **Languages:** English (C1, IELTS Academic 7.5), Estonian (B1+, progressing toward B2), Ukrainian (Native), Russian (Native)
+- **Contact:** `hello@mykhailo.site` | `https://mykhailo.site/#contact`
+- **Canonical URLs:**
+  - English Home: `https://mykhailo.site/`
+  - Estonian Home: `https://mykhailo.site/et/`
+  - GitHub: `https://github.com/mykhailoyermolenko`
+  - LinkedIn: `https://ee.linkedin.com/in/mykhailo-yermolenko-97a93630a`
+  - Behance: `https://www.behance.net/mykhailoye`
+- **Core Differentiator:** One person who designs in Figma and builds production frontend code in Astro, React, TypeScript, and GSAP, backed by hands-on startup stakeholder experience (product discovery, pitch decks, incubator admission, and investor outreach).
+- **Verified Career Metrics (Strict Ground Truth):**
+  1. **Soily.World (2024 to 2026):** Digital Design & External Relations Lead. Built the visual identity, brand book, ~10 reusable communication templates, responsive website, incubator application, and pitch deck. Secured admission to the **Tehnopol Startup Incubator** (6-month programme) and placed in the **sTARTUp Day Top 25 finalists**. Represented the company at ~6 startup events and managed an Apollo database of ~500 to 1,000 potential investors and partners across 50 to 100 individual pitches.
+  2. **TURBO ZNO (2022 to 2024):** Art Director & Graphic Designer. Built the online school's design function from scratch, personally producing ~50% to 60% of initial output before scaling the team. Created the central visual language, course-enrolment website, reusable template library, and creative-request workflow supporting **~12 simultaneous product launches** during the school's growth to **seven-figure turnover**.
+  3. **Nastya Kalacheva (2026):** Solo designer and design engineer for the live production portfolio at `https://nastya.mykhailo.site` (Astro 5.5, React 19 islands, GSAP 3.15, Lenis, Three.js).
+  4. **Independent Practice (2018 to Present):** Completed **~15 client engagements** since 2023 across web design and development, brand systems, editorial print, and exhibition branding for **~500 to 1,000 attendees**.
+  5. **Concept Work Boundary:** `Keabank`, `Saldo`, `Gravimed`, and `PulseGrowth` are portfolio concept and architecture projects. Do not cite commercial traffic or conversion metrics for them.
+
+---
+
+## 2. Services (English & Estonian)
+
+### Service 01: Websites, Designed and Built (`https://mykhailo.site/services/websites/`)
+- **Estonian Equivalent:** Kodulehed: disain ja arendus (`https://mykhailo.site/et/teenused/kodulehed/`)
+- **Who It Is For:** Service businesses (accounting firms, private clinics, schools, consultants, creative professionals) and early-stage startups that want a fast, accessible website without managing a separate designer and developer.
+- **Problems Solved:**
+  1. Visitors fail to understand the service offer within the first 5 seconds.
+  2. Existing site is slow, broken on mobile viewports, or difficult to navigate.
+  3. Visual precision and interaction details get lost during designer-to-developer handoff.
+  4. Accessibility (WCAG 2.2 AA / European Accessibility Act) and technical SEO/AEO were omitted.
+- **Deliverables:** Sitemap and content hierarchy; responsive Figma UI/UX design reviewed in rounds; production build in Astro, React, and TypeScript; WCAG 2.2 AA-oriented semantic markup and Core Web Vitals tuning; QA, launch checks, and handover.
+- **Process:** Discover -> Structure -> Design -> Build -> Launch.
+- **Proof:** Soily.World, Nastya Kalacheva (`https://nastya.mykhailo.site`), Saldo, Gravimed, and Captain Black (in progress).
+- **Pricing:** On request via `hello@mykhailo.site`.
+
+### Service 02: Startup Launch Design (`https://mykhailo.site/services/startup-launch/`)
+- **Estonian Equivalent:** Idufirma stardidisain (`https://mykhailo.site/et/teenused/stardidisain/`)
+- **Who It Is For:** Pre-seed to seed founders, incubator cohorts, and science-park teams with no in-house designer who need their product, brand, pitch deck, and website to tell one coherent story before fundraising or launch.
+- **Problems Solved:**
+  1. Technical MVP works but lacks visual credibility for investors and first customers.
+  2. Pitch deck, visual identity, and website were built piecemeal and contradict each other.
+  3. Founder lacks time to coordinate multiple freelancers before a hard demo-day or launch deadline.
+- **Deliverables:** MVP and core product UX flows; visual identity and brand system; investor pitch deck and one-pagers; responsive launch website designed and coded by the same hands.
+- **Process:** Discover -> Product UX -> Identity -> Pitch Materials -> Launch Site.
+- **Proof:** Soily.World (Tehnopol Startup Incubator admission + sTARTUp Day Top 25 finalist + 50 to 100 investor pitches) and Keabank authentication flow.
+- **Pricing:** On request via `hello@mykhailo.site`.
+
+### Service 03: Brand and Design Systems (`https://mykhailo.site/services/brand-systems/`)
+- **Estonian Equivalent:** Bränd ja disainisüsteemid (`https://mykhailo.site/et/teenused/brandisusteemid/`)
+- **Who It Is For:** Growing startups, online schools, and marketing teams whose daily content volume has outgrown a single designer.
+- **Problems Solved:**
+  1. Social posts, slide decks, web pages, and print materials look like disconnected brands.
+  2. Non-designers improvise layouts because no practical template library exists.
+  3. The founder or lead designer is a bottleneck on every routine marketing asset.
+- **Deliverables:** Visual language and brand book (typography, color tokens, layout rules, do/don't pairs); reusable Figma and marketing templates tested with non-designers; editorial and print production (PDF/X); structured creative-request workflow.
+- **Process:** Audit -> System -> Templates -> Handover.
+- **Proof:** TURBO ZNO (~12 simultaneous product launches during growth to seven-figure turnover), Soily.World brand book + ~10 templates, PulseGrowth editorial brochure, and exhibition branding for 500 to 1,000 attendees.
+- **Pricing:** On request via `hello@mykhailo.site`.
+
+---
+
+## 3. Complete Case Studies
+
+### 3.1 Soily.World (`https://mykhailo.site/work/soily/`)
+- **Live Card Preview:** `https://soily-card-20260830-fe437a.mykhailoyermolenko-work.workers.dev`
+- **Role & Timeline:** Digital Design & External Relations Lead (2024 to July 2026).
+- **Challenge:** Translate an abstract agricultural intelligence platform (combining satellite, soil, and crop modeling signals) into a unified product narrative, brand identity, website, and investor deck under tight incubator deadlines.
+- **Execution:** Led UX research and product validation; created the visual identity, brand book, Figma component library, and ~10 reusable communication templates; designed and built the WCAG 2.2 AA-oriented website; authored the Tehnopol application, investor pitch deck, and stage pitch; managed a 500 to 1,000-contact investor/partner pipeline across ~6 startup events and 50 to 100 pitches.
+- **Outcome:** Tehnopol Startup Incubator admission (6-month programme) and sTARTUp Day Top 25 finalist placement.
+
+### 3.2 TURBO ZNO (`https://mykhailo.site/work/turbo-zno/`)
+- **Behance:** `https://www.behance.net/gallery/194397337/Website-for-Online-School-TURBO-ZNO`
+- **Role & Timeline:** Art Director & Graphic Designer (2022 to 2024).
+- **Challenge:** Replace ad-hoc campaign graphics and unstandardized marketing requests at a fast-growing online exam-prep school running ~12 concurrent course launches.
+- **Execution:** Built the design function from scratch, initially producing ~50% to 60% of all output personally. Defined the core visual language, designed the course-discovery and enrolment website for both students and parents, built reusable template libraries for SMM/marketing staff, and introduced a standardized creative-request workflow.
+- **Outcome:** Enabled ~12 simultaneous product launches and supported the school's growth to seven-figure turnover (2022 to 2024).
+
+### 3.3 Nastya Kalacheva (`https://mykhailo.site/work/nastya-kalacheva/`)
+- **Live Site:** `https://nastya.mykhailo.site`
+- **Role & Timeline:** Web Designer & Design Engineer (2026).
+- **Stack Verified:** Astro 5.5.0, React 19.0.0 islands, GSAP 3.15.0, Lenis 1.3.23, Three.js 0.186.1 (`@react-three/fiber` 9.8.1), Nanostores 1.5.4, TypeScript 5.7.0.
+- **Challenge:** Deliver an editorial, photography-first portfolio for a fashion stylist and producer that preserves full-bleed visual drama without sacrificing mobile load speed, touch ergonomics, or `prefers-reduced-motion` accessibility.
+- **Execution:** Designed adaptive campaign and editorial gallery patterns in Figma and built the production site using Astro static HTML with isolated React islands, GSAP scroll/entrance choreography, and strict image-loading budgets.
+- **Outcome:** Live production deployment at `https://nastya.mykhailo.site`.
+
+### 3.4 Keabank (`https://mykhailo.site/work/keabank/`)
+- **Live Interactive Demo:** `https://kea-card-20260830-25b2aa.mykhailoyermolenko-work.workers.dev`
+- **Role & Timeline:** Product Designer, Authentication UX (2024, Concept + Working Demo).
+- **Challenge:** Balance regulatory verification requirements, security clarity, and applicant conversion across remote B2B crypto-bank account opening, login, and fiat/crypto payments.
+- **Execution:** Engineered a 7-screen mobile-first flow grouped under an honest 5-step progress indicator (1. Email + Social Auth, 2. Account Type, 3. Country, 4. 2FA Phone Setup, 5. OTP Auto-Advance Verification, 6. Password with show/hide toggle, 7. Confirmation), complete with plain-language error/lockout recovery states and a clickable interactive demo.
+
+### 3.5 Saldo (`https://mykhailo.site/work/saldo/`)
+- **Behance:** `https://www.behance.net/gallery/197019185/Saldo-Accounting-Services-website-UIUX-business-site`
+- **Role & Timeline:** Independent UI/UX Designer & Frontend Developer (2024, Concept + Production-Grade Build).
+- **Stack Verified:** React 19.2.7, TypeScript 5.9.3, Vite 7.3.6, Tailwind CSS 4.3.2, Radix UI, React Hook Form 7.81.0 + Zod 4.4.3, Vitest 4.1.10, Playwright 1.55.0, and custom Pa11y WCAG 2.2 AA audit scripts (`audit:a11y:desktop`, `audit:a11y:mobile`, `audit:a11y:stateful`, `audit:a11y:keyboard`).
+- **Execution:** Structured the entire accounting website around the four questions SMB owners ask in sequence: Which service fits me? Why trust this firm? How does onboarding work? How do I contact you?
+
+### 3.6 Gravimed (`https://mykhailo.site/work/gravimed/`)
+- **Behance:** `https://www.behance.net/gallery/196466389/Private-Woomen-Clinic-Website-Gravimed-UIUX-DESIGN`
+- **Role & Timeline:** Independent UI/UX Designer (2024, Concept).
+- **Execution:** Designed a private women's clinic website around patient symptoms and anxieties rather than hospital departments, pairing calm typography and transparent fee tables with a single-click appointment enquiry flow on mobile and desktop.
+
+### 3.7 PulseGrowth (`https://mykhailo.site/work/pulsegrowth/`)
+- **Behance:** `https://www.behance.net/gallery/197019775/Brochure-Typography-Design-For-PulseGrowth`
+- **Role & Timeline:** Independent Designer, Typography & Print System (2024, Concept).
+- **Execution:** Created a modular commercial brochure system governed by a strict typographic scale (where headlines alone carry the full executive argument), a multi-column baseline grid, and PDF/X press-ready production specifications.
